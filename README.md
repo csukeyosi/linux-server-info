@@ -1,6 +1,7 @@
 # linux-server-info
 
  IP address: 54.186.81.250
+ 
  URL: http:/54.186.81.250.xip.io
  
  Summary of software installed
@@ -10,7 +11,7 @@
  3. Apache/2.4.18 
  4. mod_wsgi
  
- summary of configurations made
+ Summary of configurations made
  ------------------------------
  1. creation/configuration of a new user
  2. configuration ufw
